@@ -51,3 +51,5 @@ for category in categories:
     print(f"Processed category: {category}")
 
 print("Dataset split into train and valid folders successfully!")
+
+#hello
